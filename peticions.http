@@ -1,0 +1,7 @@
+POST http://localhost:3000/items
+Content-Type: application/json
+
+{
+  "nom": "Exemple des de monolítica",
+  "quantitat": 1
+}
